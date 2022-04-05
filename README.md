@@ -1,2 +1,6 @@
 # CompiladorPDL
-Un procesador de código (JavaScript PDL) funcional que detecta errores sintácticos y semánticos.
+Un procesador de código programado en Java funcional que detecta errores sintácticos y semánticos.
+
+Autores:
+Santiago Sueiras Oviedo
+Jaime Campo Martín
