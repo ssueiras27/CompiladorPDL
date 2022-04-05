@@ -1,0 +1,5 @@
+//Bucle infinito while
+let int a = 1024;
+while(true){
+	a %= 2;
+}

@@ -1,0 +1,61 @@
+<let, >
+<int, >
+<id,0>
+<ptocoma, >
+<let, >
+<int, >
+<id,1>
+<ptocoma, >
+<let, >
+<int, >
+<id,2>
+<ptocoma, >
+<input, >
+<parab, >
+<id,0>
+<parcerr, >
+<ptocoma, >
+<function, >
+<id,3>
+<int, >
+<parab, >
+<int, >
+<id,4>
+<coma, >
+<int, >
+<id,5>
+<parcerr, >
+<llavab, >
+<id,6>
+<asig, >
+<entero,47>
+<ptocoma, >
+<id,6>
+<asig, >
+<id,5>
+<resta, >
+<id,4>
+<ptocoma, >
+<return, >
+<parab, >
+<parab, >
+<id,6>
+<parcerr, >
+<parcerr, >
+<ptocoma, >
+<llavcerr, >
+<id,2>
+<asig, >
+<id,3>
+<parab, >
+<id,0>
+<coma, >
+<id,1>
+<parcerr, >
+<ptocoma, >
+<print, >
+<parab, >
+<id,2>
+<parcerr, >
+<ptocoma, >
+<eof, >

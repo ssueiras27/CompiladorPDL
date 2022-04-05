@@ -1,0 +1,4 @@
+if (hola %= 134);
+while let int a = 815{
+	"string hahaha"
+}

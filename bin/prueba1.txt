@@ -1,0 +1,12 @@
+let int   a;
+let int    b  ;
+let int number;
+input (a);
+function operacion int(int num2,int num1)
+{
+	res = 47;
+	res=num1-num2;
+	return ((res));
+}
+number = operacion (a, b);
+print (number);

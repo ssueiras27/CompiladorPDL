@@ -1,0 +1,29 @@
+TABLA #1:
+*'a'
++tipo: 'ent'
++despl: 0
+*'b'
++tipo: 'ent'
++despl: 1
+*'number'
++tipo: 'ent'
++despl: 2
+*'operacion'
++tipo: 'function'
++numParam: 2
++TipoParam1: 'ent'
++ModoParam1: 1
++TipoParam2: 'ent'
++ModoParam2: 1
+EtiqFunction: 'Etoperacion01'
+*'res'
++tipo: 'ent'
++despl: 3
+
+TABLA DE operacion #2:
+*'num2'
++tipo: 'ent'
++despl: 0
+*'num1'
++tipo: 'ent'
++despl: 1
